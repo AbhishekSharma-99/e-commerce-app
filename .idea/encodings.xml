@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/Services/config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Services/customer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Services/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Services/product/src/main/java" charset="UTF-8" />
   </component>
 </project>

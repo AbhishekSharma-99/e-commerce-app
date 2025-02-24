@@ -11,7 +11,7 @@ create table if not exists product(
     available_quantity double precision not null,
     price numeric(38,2),
     category_id integer,
-    foreign key (category_id) references category(id) constraint fk_product_category
+    constraint fk_product_category foreign key (category_id) references category(id)
 );
 
 create sequence if not exists category_seq increment by 50;
